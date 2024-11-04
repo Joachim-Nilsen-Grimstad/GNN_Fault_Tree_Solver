@@ -1,0 +1,314 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {
+        "model_id": 1,
+        "creation_date": "2024-10-31",
+        "num_nodes": 25,
+        "num_top_nodes": 1,
+        "num_intermediate_nodes": 10,
+        "num_leaf_nodes": 14,
+        "num_and_gates": 3,
+        "num_or_gates": 4
+    },
+    "nodes": [
+        {
+            "node_type": 0,
+            "gate_type": 1,
+            "node_probability": -1,
+            "in_degree": 2,
+            "out_degree": 0,
+            "id": 1
+        },
+        {
+            "node_type": 1,
+            "gate_type": 1,
+            "node_probability": -1,
+            "in_degree": 2,
+            "out_degree": 1,
+            "id": 2
+        },
+        {
+            "node_type": 2,
+            "gate_type": 2,
+            "node_probability": 0.0002819223412270671,
+            "in_degree": 0,
+            "out_degree": 1,
+            "id": 3
+        },
+        {
+            "node_type": 1,
+            "gate_type": 2,
+            "node_probability": -1,
+            "in_degree": 2,
+            "out_degree": 1,
+            "id": 4
+        },
+        {
+            "node_type": 2,
+            "gate_type": 3,
+            "node_probability": 2.341476534284439e-10,
+            "in_degree": 0,
+            "out_degree": 1,
+            "id": 5
+        },
+        {
+            "node_type": 1,
+            "gate_type": 3,
+            "node_probability": -1,
+            "in_degree": 2,
+            "out_degree": 1,
+            "id": 6
+        },
+        {
+            "node_type": 2,
+            "gate_type": 4,
+            "node_probability": 0.06790910309458532,
+            "in_degree": 0,
+            "out_degree": 1,
+            "id": 7
+        },
+        {
+            "node_type": 2,
+            "gate_type": 4,
+            "node_probability": 1.0771478535676064e-07,
+            "in_degree": 0,
+            "out_degree": 1,
+            "id": 8
+        },
+        {
+            "node_type": 1,
+            "gate_type": 1,
+            "node_probability": -1,
+            "in_degree": 2,
+            "out_degree": 1,
+            "id": 9
+        },
+        {
+            "node_type": 1,
+            "gate_type": 2,
+            "node_probability": -1,
+            "in_degree": 2,
+            "out_degree": 1,
+            "id": 10
+        },
+        {
+            "node_type": 1,
+            "gate_type": 3,
+            "node_probability": -1,
+            "in_degree": 2,
+            "out_degree": 1,
+            "id": 11
+        },
+        {
+            "node_type": 2,
+            "gate_type": 4,
+            "node_probability": 0.21837819866999553,
+            "in_degree": 0,
+            "out_degree": 1,
+            "id": 12
+        },
+        {
+            "node_type": 2,
+            "gate_type": 4,
+            "node_probability": 0.3350582014426327,
+            "in_degree": 0,
+            "out_degree": 1,
+            "id": 13
+        },
+        {
+            "node_type": 1,
+            "gate_type": 3,
+            "node_probability": -1,
+            "in_degree": 3,
+            "out_degree": 1,
+            "id": 14
+        },
+        {
+            "node_type": 2,
+            "gate_type": 4,
+            "node_probability": 3.7498704267258897e-05,
+            "in_degree": 0,
+            "out_degree": 1,
+            "id": 15
+        },
+        {
+            "node_type": 2,
+            "gate_type": 4,
+            "node_probability": 0.06485915246030409,
+            "in_degree": 0,
+            "out_degree": 1,
+            "id": 16
+        },
+        {
+            "node_type": 2,
+            "gate_type": 4,
+            "node_probability": 2.1592660477776277e-14,
+            "in_degree": 0,
+            "out_degree": 1,
+            "id": 17
+        },
+        {
+            "node_type": 1,
+            "gate_type": 2,
+            "node_probability": -1,
+            "in_degree": 2,
+            "out_degree": 1,
+            "id": 18
+        },
+        {
+            "node_type": 1,
+            "gate_type": 3,
+            "node_probability": -1,
+            "in_degree": 2,
+            "out_degree": 1,
+            "id": 19
+        },
+        {
+            "node_type": 2,
+            "gate_type": 4,
+            "node_probability": 6.528010859194089e-09,
+            "in_degree": 0,
+            "out_degree": 1,
+            "id": 20
+        },
+        {
+            "node_type": 2,
+            "gate_type": 4,
+            "node_probability": 0.004033910624800291,
+            "in_degree": 0,
+            "out_degree": 1,
+            "id": 21
+        },
+        {
+            "node_type": 1,
+            "gate_type": 3,
+            "node_probability": -1,
+            "in_degree": 3,
+            "out_degree": 1,
+            "id": 22
+        },
+        {
+            "node_type": 2,
+            "gate_type": 4,
+            "node_probability": 4.292913573765696e-10,
+            "in_degree": 0,
+            "out_degree": 1,
+            "id": 23
+        },
+        {
+            "node_type": 2,
+            "gate_type": 4,
+            "node_probability": 4.533737101926868e-05,
+            "in_degree": 0,
+            "out_degree": 1,
+            "id": 24
+        },
+        {
+            "node_type": 2,
+            "gate_type": 4,
+            "node_probability": 2.1123486788706032e-16,
+            "in_degree": 0,
+            "out_degree": 1,
+            "id": 25
+        }
+    ],
+    "links": [
+        {
+            "source": 2,
+            "target": 1
+        },
+        {
+            "source": 3,
+            "target": 2
+        },
+        {
+            "source": 4,
+            "target": 2
+        },
+        {
+            "source": 5,
+            "target": 4
+        },
+        {
+            "source": 6,
+            "target": 4
+        },
+        {
+            "source": 7,
+            "target": 6
+        },
+        {
+            "source": 8,
+            "target": 6
+        },
+        {
+            "source": 9,
+            "target": 1
+        },
+        {
+            "source": 10,
+            "target": 9
+        },
+        {
+            "source": 11,
+            "target": 10
+        },
+        {
+            "source": 12,
+            "target": 11
+        },
+        {
+            "source": 13,
+            "target": 11
+        },
+        {
+            "source": 14,
+            "target": 10
+        },
+        {
+            "source": 15,
+            "target": 14
+        },
+        {
+            "source": 16,
+            "target": 14
+        },
+        {
+            "source": 17,
+            "target": 14
+        },
+        {
+            "source": 18,
+            "target": 9
+        },
+        {
+            "source": 19,
+            "target": 18
+        },
+        {
+            "source": 20,
+            "target": 19
+        },
+        {
+            "source": 21,
+            "target": 19
+        },
+        {
+            "source": 22,
+            "target": 18
+        },
+        {
+            "source": 23,
+            "target": 22
+        },
+        {
+            "source": 24,
+            "target": 22
+        },
+        {
+            "source": 25,
+            "target": 22
+        }
+    ]
+}
